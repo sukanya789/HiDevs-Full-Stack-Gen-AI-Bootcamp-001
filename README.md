@@ -1,5 +1,5 @@
 # HiDevs-Full-Stack-Gen-AI-Bootcamp-001
-Problem Statement 1: Managing Personal Information with Python
+ WEEK_3 : Problem Statement 1: Managing Personal Information with Python
 Overview
 This problem involves creating a Python class to manage personal information, including names and dates of birth. The class should handle input from the console, display dates of birth when names are entered, and handle secret dates of birth by displaying "secret" instead. All data should be persisted and loaded, with support for adding to the list.
 
